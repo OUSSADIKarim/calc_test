@@ -1,0 +1,16 @@
+{
+  "name": "Brainnest calculator app",
+  "short_name": "calc-app",
+  "icons": [
+    {
+      "src": "/icon_manifest.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
